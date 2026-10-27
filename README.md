@@ -1,3 +1,5 @@
+<img width="816" height="768" alt="{0AAC577C-38E6-4BB7-87CF-9AD38966699A}" src="https://github.com/user-attachments/assets/f6404d55-0314-4d57-ba7e-e4b2aba52c5b" />
+
 # WARDOGS — Helicopter Analog Trigger Fix
 
 An open-source, lightweight, zero-dependency Windows utility that restores smooth **0–255 proportional analog trigger control** (`LT` / `RT`) over helicopter collective in **WARDOGS** — **without** installing kernel drivers like `vJoy` or third-party suites like `Joystick Gremlin`.
